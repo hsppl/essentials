@@ -1,0 +1,6 @@
+name: Essentials
+version: '${project.version}'
+main: com.saasym.essentials.Essentials
+api-version: 1.17
+load: STARTUP
+authors: [ Hsppl ]
